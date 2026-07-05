@@ -48,7 +48,6 @@ Tailwind-Razorpay-UI/
 ├── README.md
 ├── tailwind.config.js
 
-.
 
 ## 🙌 Author
 
