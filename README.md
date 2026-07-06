@@ -7,16 +7,16 @@ This project focuses on clean design, reusable components, and a fintech-style l
 ## 📸 Project Preview
 
 ### Section 1
-![Section 1](screenshots/Section1.png)
+![Section 1](screenshots/Section2.png)
 
 ### Section 2
-![Section 2](screenshots/Section2.png)
+![Section 2](screenshots/Section3.png)
 
 ### Section 3
-![Section 3](screenshots/Section3.png)
+![Section 3](screenshots/Section4.png)
 
 ### Section 4
-![Section 4](screenshots/Section4.png)
+![Section 4](screenshots/Section1.png)
 ---
 
 ## 🛠️ Tech Stack
